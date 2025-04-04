@@ -1,7 +1,7 @@
 
 # 🛋️ Library Interior Design
 
-Welcome to the **Interior Design Library** — an open-source knowledge hub and toolkit for interior designers, architects, and design technologists. This repository is built to empower professionals and design students with ready-to-use resources, automation tools, and collaborative universal project documentation that streamlines the design process across residential, commercial, and office spaces.
+Welcome to the **Interior Design Library** an open-source knowledge hub and toolkit for interior designers, architects, and design technologists. This repository is built to empower professionals and design students with ready-to-use resources, automation tools, and collaborative universal project documentation that streamlines the design process across residential, commercial, and office spaces.
 
 ---
 
