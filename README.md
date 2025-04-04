@@ -23,7 +23,7 @@ The goal is to bring **practicality + creativity** together in one place.
 
 - 🎨 **Design Templates** – Layouts for office spaces, residential plans, modular furniture, etc.
 - 📊 **Calculators** – Tools to estimate area, cost, material quantities, and sustainability score.
-- 📚 **Resources** – Downloadable eBooks, design principle guides, trend reports, and learning materials.
+- 📚 **Resources** – Downloadable eBooks, design principle guides, trend reports, [infographic](https://whitehillsinterior.in/insights/infographic/) and learning materials.
 - 🏗️ **Case Studies** – Project documentation, challenges, and design solutions.
 - 👥 **Community Contributions** – Space for designers to share tools, templates, or workflows.
 
